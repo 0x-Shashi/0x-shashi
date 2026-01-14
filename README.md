@@ -29,15 +29,33 @@ To follow my journey and coding projects, check out my YouTube channel:  [![YouT
 
 ---
 
-### Work & Projects Overview
 
-| Private / Company Projects | Contests | Personal Projects |
-|---------------------------|----------|-------------------|
-| **Netrum Labs Website**  <br/> Main official website of Netrum Labs | **BNB Hackathon 2026** <br/> Upcoming participation | **Crypto Library** <br/> A web platform that aggregates and organizes Web3 and crypto resources |
-| **Netrum Labs Base App** <br/> Mini application built on the Base ecosystem |  |  |
-| **Netrum Labs Light Extension Node** <br/> Web-based lightweight node running platform |  |  |
+### Private Works
+
+| No | Date        | Project Name                     | Category          | Language / Stack            |
+|----|-------------|----------------------------------|-------------------|-----------------------------|
+| 1  | May 2025    | Netrum Labs Website               | Frontend          | TypeScript (Next.js)        |
+| 2  | Nov 2025    | Netrum Labs Base App              | Base Application  | JavaScript, TypeScript      |
+| 3  | Jan 2026    | Netrum Labs Light Extension Node  | Web Infrastructure| JavaScript, TypeScript      |
 
 ---
+
+### Contests
+
+| No | Date              | Event Name                 | Project Name        | Category  | Rank / Result      |
+|----|-------------------|----------------------------|---------------------|-----------|--------------------|
+| 1  | 09 Oct 2025       | Base Onchain Summer        | Netrum Base App     | Base App  | 2nd Place ($10,000)|
+| 2  | 24–25 (Upcoming)  | BNB Hackathon              | --                  | --        | --                 |
+
+---
+
+### Personal Projects
+
+| No | Date            | Project Name    | Description                                                  | GitHub Stars |
+|----|-----------------|-----------------|--------------------------------------------------------------|--------------|
+| 1  | 01 Sep 2025     | Crypto Library  | A web platform that aggregates and organizes Web3 and crypto resources | 30 |
+
+
 
 ### Tech Stack
 
