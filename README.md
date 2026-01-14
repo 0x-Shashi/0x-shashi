@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Shashi!;On+my+way+to+Be+BSD;Also+working+in+the+AI+field)](https://git.io/typing-svg)
 
-I do development across Web3, infrastructure, and product execution.
+**I do development across Web3, infrastructure, and product execution.**
 
-Developer at Netrum Labs
+**Developer at Netrum Labs**
 
-**Socials: [![YouTube](https://img.shields.io/badge/YouTube-0xShashi-black?logo=youtube&logoColor=white)](https://www.youtube.com/@0xShashi) [![Telegram](https://img.shields.io/badge/Telegram-@Shiro_7723-black?logo=telegram&logoColor=white)](https://t.me/Shiro_7723)
-**
 <details>
 <summary><strong>About me</strong></summary>
 
@@ -21,10 +19,17 @@ At the moment, I am not actively looking for jobs and have intentionally paused 
 
 </details>
 
+---
 
-For work or direct communication, I am active on Telegram:  https://t.me/Shiro_7723
+### Socials
 
-To follow my journey and coding projects, check out my YouTube channel:  https://www.youtube.com/@0xShashi
+For work or direct communication, I am active on Telegram:  [![Telegram](https://img.shields.io/badge/Telegram-@Shiro_7723-black?logo=telegram&logoColor=white)](https://t.me/Shiro_7723)
+
+To follow my journey and coding projects, check out my YouTube channel:  [![YouTube](https://img.shields.io/badge/YouTube-0xShashi-black?logo=youtube&logoColor=white)](https://www.youtube.com/@0xShashi) 
+
+---
+
+### Work & Projects Overview
 
 | Private / Company Projects | Contests | Personal Projects |
 |---------------------------|----------|-------------------|
@@ -32,5 +37,14 @@ To follow my journey and coding projects, check out my YouTube channel:  https:/
 | **Netrum Labs Base App** <br/> Mini application built on the Base ecosystem |  |  |
 | **Netrum Labs Light Extension Node** <br/> Web-based lightweight node running platform |  |  |
 
-JavaScript | TypeScript | Python | Solidity (loading)
+---
+
+### Tech Stack
+
+## Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,solidity,linux&perline=5" />
+</p>
+
 
