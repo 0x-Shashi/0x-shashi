@@ -4,8 +4,8 @@ I do development across Web3, infrastructure, and product execution.
 
 Developer at Netrum Labs
 
-Socials: [![YouTube](https://img.shields.io/badge/YouTube-0xShashi-black?logo=youtube&logoColor=white)](https://www.youtube.com/@0xShashi) [![Telegram](https://img.shields.io/badge/Telegram-@Shiro_7723-black?logo=telegram&logoColor=white)](https://t.me/Shiro_7723)
-
+**Socials: [![YouTube](https://img.shields.io/badge/YouTube-0xShashi-black?logo=youtube&logoColor=white)](https://www.youtube.com/@0xShashi) [![Telegram](https://img.shields.io/badge/Telegram-@Shiro_7723-black?logo=telegram&logoColor=white)](https://t.me/Shiro_7723)
+**
 <details>
 <summary><strong>About me</strong></summary>
 
