@@ -53,13 +53,12 @@ To follow my journey and coding projects, check out my YouTube channel:  [![YouT
 
 | No | Date            | Project Name    | Description                                                  | GitHub Stars |
 |----|-----------------|-----------------|--------------------------------------------------------------|--------------|
-| 1  | 01 Sep 2025     | Crypto Library  | A web platform that aggregates and organizes Web3 and crypto resources | 30 |
+| 1  | 01 Sep 2025     | Crypto Library  | A web platform that aggregates and organizes Web3 and crypto resources | ![GitHub stars](https://img.shields.io/github/stars/0x-Shashi/Crypto-Library?style=flat&color=black)
+ |
 
 
 
 ### Tech Stack
-
-## Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,solidity,linux&perline=5" />
