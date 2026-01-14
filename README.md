@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Shashi!;Future+Blockchain+Developer+🚀;Building+the+next+6+months+in+Web3;Also+exploring+AI+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Shashi!;On+my+way+to+Blockchain+Development;Also+working+in+the+AI+field)](https://git.io/typing-svg)
