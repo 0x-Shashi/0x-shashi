@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Shashi!;On+my+way+to+Be+BSD;Also+working+in+the+WEB3+startup)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Shashi!;On+my+way+to+Be+BSD;Also+working+in+the+WEB3)](https://git.io/typing-svg)
 
 **I do development across Web3, infrastructure, and product execution.**
 
