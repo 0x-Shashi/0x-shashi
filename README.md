@@ -53,7 +53,7 @@ To follow my journey and coding projects, check out my YouTube channel:  [![YouT
 
 | No | Date            | Project Name    | Description                                                  | GitHub Stars |
 |----|-----------------|-----------------|--------------------------------------------------------------|--------------|
-| 1  | 29 Jan 2026     | [WEB 3 Audit Plugin](https://github.com/0x-Shashi/WEB3-AUDIT-SKILLS)  | An AI-powered smart contract security knowledge base for automated auditing and vulnerability detection. | ![GitHub stars](https://img.shields.io/github/stars/0x-Shashi/WEB3-AUDIT-SKILLS?style=flat&color=black)
+| 1  | 09 Jan 2026     | [WEB 3 Audit Plugin](https://github.com/0x-Shashi/WEB3-AUDIT-SKILLS)  | An AI-powered smart contract security knowledge base for automated auditing and vulnerability detection. | ![GitHub stars](https://img.shields.io/github/stars/0x-Shashi/WEB3-AUDIT-SKILLS?style=flat&color=black)
 | 1  | 01 Sep 2025     | [Crypto Library](https://github.com/0x-Shashi/Crypto-Library)  | A web platform that aggregates and organizes Web3 and crypto resources | ![GitHub stars](https://img.shields.io/github/stars/0x-Shashi/Crypto-Library?style=flat&color=black)
 
 
